@@ -61,7 +61,7 @@ Each skill typically contains:
 | `meeting-notes`   | Structured meeting summaries with action items |
 | `decision-helper` | Structured decision-making frameworks |
 
----
+------
 
 ## 🚀 Installation
 
