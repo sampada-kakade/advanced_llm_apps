@@ -4,7 +4,7 @@
 A curated collection of skills for AI agents following the **Agent Skills specification**.  
 These skills are packaged instructions and scripts that extend agent capabilities, making them reusable across different agent frameworks and workflows.
 
----
+-----
 
 ## ✨ What Are Agent Skills?
 Agent Skills are modular capabilities that can be plugged into any AI agent or LLM workflow.  
