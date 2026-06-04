@@ -79,4 +79,4 @@ Create a new skill directory following the specification
 
 Ensure SKILL.md has proper YAML frontmatter
 
-Submit a Pull Request
+Submit a Pull Request..
