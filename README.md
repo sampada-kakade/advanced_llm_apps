@@ -69,7 +69,7 @@ Each skill typically contains:
 ```bash
 npx skills add sampada-kakade/ai-agent-skills
 
-
+---
 🤝 Contributing
 Contributions are welcome!
 
